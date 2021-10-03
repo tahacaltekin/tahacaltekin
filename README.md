@@ -3,9 +3,10 @@
 ### 
 ❔ Who am I ❔ 
 #
-<p align = "left">
+<p align = "center">
     <img src='https://user-images.githubusercontent.com/50106187/132529909-66968418-fd4d-410d-8e45-b8ab2bd5cdbd.gif' height='180'>
 </div>
+
 - 📖 I graduated from Akdeniz University MIS.
 - 🤔 I'm interested in Android App Development.
 - 🚴‍♂️ I’m currently learning Java and Kotlin Android Programming 
