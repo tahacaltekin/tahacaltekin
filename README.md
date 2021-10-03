@@ -1,15 +1,10 @@
 ### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Taha 👨‍💻 
 
-
-
-<!--
-**tahacaltekin/tahacaltekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+##
+- 📖 I graduated Akdeniz University MIS.
+- ![image](https://user-images.githubusercontent.com/61507654/135769969-84364710-349f-4842-ac12-d7804f879f0b.png)
+- 💻  I’m currently learning Java and Kotlin Android Programming 
+- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
