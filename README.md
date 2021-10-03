@@ -29,7 +29,7 @@
          height="30" width="40" /></a>
          
  <a href="thcaltekin@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="instagram"
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mail"
          height="30" width="40" /></a>
     
 
