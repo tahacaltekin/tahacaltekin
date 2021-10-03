@@ -10,7 +10,7 @@
 - 🚴‍♂️ I’m currently learning mobile development with Java.
 - 🎮 We can talk about Formula 1, Video Games and Android with a coffee.😄
 
-
+---------
 
 <h3 align="center">Connect with me</h3>
 
