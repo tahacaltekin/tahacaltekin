@@ -2,7 +2,7 @@
 
 ##
 - 📖 I graduated Akdeniz University MIS.
-- ![image](https://user-images.githubusercontent.com/61507654/135769969-84364710-349f-4842-ac12-d7804f879f0b.png)
+- ![image](https://user-images.githubusercontent.com/61507654/135769969-84364710-349f-4842-ac12-d7804f879f0b.png) width="30px">
 - 💻  I’m currently learning Java and Kotlin Android Programming 
 - 
 - 🤔 I’m looking for help with ...
