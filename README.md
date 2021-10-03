@@ -28,11 +28,4 @@
          
 <a href="https://twitter.com/tahacaltekin" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="instagram"
-         height="30" width="40" /></a>
-         
- <a href="thcaltekin@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mail"
-         height="30" width="40" /></a>
-    
-
-         
+         height="30" width="40" /></a>    
