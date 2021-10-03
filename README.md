@@ -3,6 +3,8 @@
 ### 
 ❔ Who am I ❔ 
 
+#
+
 
 - 📖 I graduated Akdeniz University MIS.
 - 💻 I'm trying to be Android Developer
