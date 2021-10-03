@@ -3,7 +3,7 @@
 ### 
 ❔ Who am I ❔ 
 #
-<p align = "right">
+<p align = "left">
     <img src='https://user-images.githubusercontent.com/50106187/132529909-66968418-fd4d-410d-8e45-b8ab2bd5cdbd.gif' height='180'>
 </div>
 - 📖 I graduated from Akdeniz University MIS.
