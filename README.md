@@ -8,7 +8,7 @@
 - 📖 I graduated from Akdeniz University MIS.
 - 🤔 I'm interested in Android App Development.
 - 🚴‍♂️ I’m currently learning mobile development with Java.
-- 🎮 We can talk about Formula 1, Video Games and Android with a coffee.😄
+- 🎮 We can talk about Formula 1, Video Games and Music with a coffee.😄
 
 
 <h3 align="center">Connect with me</h3>
@@ -18,7 +18,7 @@
          height="30" width="40" /></a>
 
 <a href="https://www.instagram.com/tahacaltekin/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram"
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram"
          height="30" width="40" /></a>
          
 <a href="https://twitter.com/tahacaltekin" target="blank">
