@@ -7,7 +7,7 @@
 
 - 📖 I graduated from Akdeniz University MIS.
 - 🤔 I'm interested in Android App Development.
-- 🚴‍♂️ I’m currently learning mobile development with Java.
+- 🚴‍♂️ I’m currently learning mobile development with Kotlin.
 - ☕ We can talk about Formula 1, Video Games and Music with a coffee.
 - 🎮 I like play CS GO, Formula 1 and simulator games.  
 
